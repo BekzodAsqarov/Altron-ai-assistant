@@ -48,7 +48,7 @@ Bu oddiy assistant emas — bu sening **digital extension’ing**.
 
 ---
 
-##  MARK II Updates
+##  MARK I Updates
 
 -  Faster response time  
 -  Smarter memory  
