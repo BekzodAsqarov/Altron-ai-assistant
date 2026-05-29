@@ -1,7 +1,7 @@
 #  ALTRON — MARK I  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-Mark%20II-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Version-Mark%20I-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3.11+-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-black?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Local%20First-green?style=for-the-badge" />
