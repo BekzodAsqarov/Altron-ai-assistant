@@ -16,7 +16,7 @@
 
 ##  About ALTRON
 
-ALTRON MARK II — bu real-time ishlaydigan AI assistant bo‘lib, u eshita oladi, ko‘ra oladi, tushunadi va kompyuteringni boshqara oladi.
+ALTRON MARK I — bu real-time ishlaydigan AI assistant bo‘lib, u eshita oladi, ko‘ra oladi, tushunadi va kompyuteringni boshqara oladi.
 
 💻 Fully local  
 ⚡ Fast response  
